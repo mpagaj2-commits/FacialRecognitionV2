@@ -1,0 +1,11 @@
+.venv/
+venv/
+--pycache__/
+*.pyc
+
+
+photos/
+database.txt
+attendance.csv
+
+.env
